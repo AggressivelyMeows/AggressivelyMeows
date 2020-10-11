@@ -1,17 +1,13 @@
 
 <h1>
-  <img src="https://media.spns.us/unicorn/happy.png?w=64&dpr=4&h=128" width="64"/>  
-  Hi 👋, I'm Connor Vince
+  <img src="https://media.spns.us/unicorn/happy.png?w=64&dpr=2" width="64"/>  
+  Hi, I'm Connor Vince
 </h1>
-<h3>CEO of Sponsus. Self-taught specialist in global, high-speed, applications</h3>
+<h3>
+  CEO of Sponsus. Self-taught specialist in global, high-speed, applications.
+</h3>
 
-- 🔭 I’m currently working on [Sponsus](https://sponsus.org)
-
-- 👯 I’m looking to collaborate on [anything interesting](https://sponsus.org/u/cerulean)
-
-- 📝 I regulary write articles on [https://sponsus.org/u/cerulean](https://sponsus.org/u/cerulean)
-
-- 💬 Ask me about **Developing for global scale using Python and JS**
+I have developed tons of unique and interesting projects over the years, feel free to take a peak around!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
