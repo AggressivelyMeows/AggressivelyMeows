@@ -1,5 +1,8 @@
 
-<h1> <img src="https://media.spns.us/unicorn/happy.png?w=64&dpr=4" width="64"/>   Hi 👋, I'm Connor Vince</h1>
+<h1>
+  <img src="https://media.spns.us/unicorn/happy.png?w=64&dpr=4&h=128" width="64"/>  
+  Hi 👋, I'm Connor Vince
+</h1>
 <h3>CEO of Sponsus. Self-taught specialist in global, high-speed, applications</h3>
 
 - 🔭 I’m currently working on [Sponsus](https://sponsus.org)
