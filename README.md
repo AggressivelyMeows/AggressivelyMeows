@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Connor Vince</h1>
-<h3 align="center">CEO of Sponsus. Specialist in high-speed, global, communication.</h3>
+<h1>Hi 👋, I'm Connor Vince</h1>
+<h3>CEO of Sponsus. Self-taught specialist in global, high-speed, applications</h3>
 
 - 🔭 I’m currently working on [Sponsus](https://sponsus.org)
 
