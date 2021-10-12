@@ -3,7 +3,9 @@
 
 <img style="width:100%;" src="https://api.constellations.tech/v2/ceru-github-profile-views/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424&series=1&key=share_k7YGOLOMhj9h871Kh8pEH9jl&width=1000&height=300&x=1"/>
 
-<p>(Profile views, powered by ConstellationsDB)</p>
+<p align="center">
+  <a href="https://constellations.tech" target="_blank">Profile views powered by ConstellationsDB, get your own graph for free here!</a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/ceruthedev" target="blank"><img src="https://img.shields.io/twitter/follow/ceruthedev?logo=twitter&style=for-the-badge" alt="ceruthedev" /></a> </p>
 
