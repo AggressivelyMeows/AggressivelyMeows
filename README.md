@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aggressivelymeows&show_icons=true&locale=en&layout=compact" alt="aggressivelymeows" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aggressivelymeows&show_icons=true&locale=en" alt="aggressivelymeows" /></p>
-<img hidden src="https://api.constellations.tech/v2/ceru-github-profile-views?key=rE6l7XdaQE-INgsthUlTV0BfKZduFirA" style="display:none;"/>
+<img hidden src="https://api.constellations.tech/v2/ceru-github-profile-views?key=rE6l7XdaQE-INgsthUlTV0BfKZduFirA&image=1" style="display:none;"/>
