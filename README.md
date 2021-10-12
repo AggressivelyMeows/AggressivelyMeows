@@ -2,7 +2,7 @@
 <h3 align="center">Founder of ConstellationsDB</h3>
 
 <img src="https://api.constellations.tech/v2/global/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424"/>
-<img src="https://nyc3.digitaloceanspaces.com/cerulean/screenshots/2021/10/trans.svg"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aggressivelymeows" alt="aggressivelymeows" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ceruthedev" target="blank"><img src="https://img.shields.io/twitter/follow/ceruthedev?logo=twitter&style=for-the-badge" alt="ceruthedev" /></a> </p>
