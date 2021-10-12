@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cerulean</h1>
 <h3 align="center">Founder of ConstellationsDB, and maker of a bunch of cool projects</h3>
 
-<img style="width:100%;" src="https://api.constellations.tech/v2/ceru-github-profile-views/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424&series=1&key=share_k7YGOLOMhj9h871Kh8pEH9jl&width=1000&height=300"/>
+<img style="width:100%;" src="https://api.constellations.tech/v2/ceru-github-profile-views/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424&series=1&key=share_k7YGOLOMhj9h871Kh8pEH9jl&width=1000&height=300&x=1"/>
 
 <p>(Profile views, powered by ConstellationsDB)</p>
 
