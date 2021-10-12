@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Connor Vince</h1>
-<h3 align="center">Founder of ConstellationsDB</h3>
+<h1 align="center">Hi 👋, I'm Cerulean</h1>
+<h3 align="center">Founder of ConstellationsDB, and maker of a bunch of cool projects</h3>
 
-<img src="https://api.constellations.tech/v2/global/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424"/>
+<img style="width:100%;" src="https://api.constellations.tech/v2/ceru-github-profile-views/graph/image?resolution=hours&range=48&type=sum&mode=area&label=Views&label-color=242424&series=1&key=share_k7YGOLOMhj9h871Kh8pEH9jl&width=1000&height=300"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aggressivelymeows" alt="aggressivelymeows" /></a> </p>
+<p>(Profile views, powered by ConstellationsDB)</p>
 
 <p align="left"> <a href="https://twitter.com/ceruthedev" target="blank"><img src="https://img.shields.io/twitter/follow/ceruthedev?logo=twitter&style=for-the-badge" alt="ceruthedev" /></a> </p>
 
@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aggressivelymeows&show_icons=true&locale=en&layout=compact" alt="aggressivelymeows" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aggressivelymeows&show_icons=true&locale=en" alt="aggressivelymeows" /></p>
-
+<img hidden src="https://api.constellations.tech/v2/ceru-github-profile-views?key=rE6l7XdaQE-INgsthUlTV0BfKZduFirA" style="display:none;"/>
